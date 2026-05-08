@@ -1,34 +1,35 @@
- 📊 Revenue vs Profit Analysis Dashboard
+# 📊 Revenue vs Profit Analysis Dashboard
 
-# 🎯 Project Overview
-Sales data ka analysis karke hidden losses dhundhe hain.
-Power BI mein interactive dashboard banaya hai.
+## 🎯 Project Overview
 
-#  Business Questions
-- Kaunse products loss mein hain?
-- Discount ka profit pe kya asar hai?
-- Kaunsa region sabse profitable hai?
-- Kaunsi category best perform kar rahi hai?
+Analyzed sales data to identify hidden losses and built an interactive dashboard in Power BI.
 
-#  Key Metrics
-| Metric | Value |
-|--------|-------|
-| Total Sales | 2.30M |
-| Total Profit | 286.40K |
-| Total Quantity | 38K |
-| Avg Discount | 16% |
+## Business Questions
 
-#  Key Insights
-- Furniture mein sabse zyada loss hai
+- Which products are running at a loss?
+- What is the impact of discounts on profit?
+- Which region is the most profitable?
+- Which category is performing the best?
+
+## Key Metrics
+
+| Metric         | Value   |
+|----------------|---------|
+| Total Sales    | 2.30M   |
+| Total Profit   | 286.40K |
+| Total Quantity | 38K     |
+| Avg Discount   | 16%     |
+
+## Key Insights
+
+- Furniture has the highest losses
 - High discount = Low profit
-- West region sabse profitable hai
-- Technology category best hai
+- West region is the most profitable
+- Technology category performs the best
 
-# Tools Used
+## Tools Used
+
 - Power BI Desktop
 - Power Query (Data Cleaning)
-- DAX (Calculations)
+- DAX (Calculations)V<img width="1405" height="810" alt="Screenshot 2026-05-08 120425" src="https://github.com/user-attachments/assets/85c23489-5c0d-4d63-8327-a2215ea89e9b" />
 
-#<img width="1001" height="712" alt="Screenshot 2026-05-03 114448" src="https://github.com/user-attachments/assets/3561c423-d163-4e9f-8398-f3dda55befca" />
- Dashboard Preview
-![Dashboard](powerbi_dashboard.png)
